@@ -2,6 +2,7 @@
     "name": "sysfony/chess",
     "type": "library",
     "homepage": "http://github.com/sysfony/chess",
+    "version": "1.0.0",
     "authors": [
         {
             "name": "ocditimban",
