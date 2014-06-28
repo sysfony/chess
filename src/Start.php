@@ -7,6 +7,6 @@ class Start {
 	}
 
 	public function helloWord() {
-		echo ('Hello Worrdd');
+		return 'Hello Worrdd';
 	}
 }
